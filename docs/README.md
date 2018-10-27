@@ -143,9 +143,9 @@ npm run nyc
 npm run testReport
 ```
 测试截图 npm run nyc
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/testing.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/testing.png)
 测试报表 npm run testReport
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/test-report.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/test-report.png)
 ## 部署测试环境
 ```
 //环境准备
@@ -262,18 +262,17 @@ node install backupProd
 
 ## 项目截图
 登陆
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/login.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/login.png)
 新增博客
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/create_post.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/create_post.png)
 获取单个博客(可浏览器直接查看)
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/get_post.png)
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/post_detail.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/get_post.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/post_detail.png)
 获取全部博客(可浏览器直接查看)
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/get_all_post.png)
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/post_list.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/get_all_post.png)
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/post_list.png)
 获取用户列表1
-![](https://raw.githubusercontent.com/QCCS/nice-swa-s/master/docs/imgs/user.png)
-
+![](https://github.com/QCCS/nice-swa-s/blob/master/docs/imgs/user.png)
 ## 其他博客项目
 这也是我为什么做博客系统的原因，找不到一个我想要的。
 方便开发，扩展，测试，与部署
