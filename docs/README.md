@@ -1,6 +1,6 @@
 # nice-swa-s
 ## 项目说明
-- nice-swa，读着:laishua,中文名：来耍,加了-s,是代表serve,服务端。
+- nice-swa，读着：laishua,中文名：来耍,加了-s，是代表serve,服务端。
 - 这是NODE后台脚手架模板，
 使用 koa2 后端框架，数据库 mysql，ES6 语法开发，
 打包工具为webpack4。
