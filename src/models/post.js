@@ -13,9 +13,7 @@ let post = sequelize.define('post',
             type: Sequelize.INTEGER,
             allowNull: false,
             references: {
-                // This is a reference to another model
                 model: 'user',
-                // This is the column name of the referenced model
                 key: 'id',
             }
         },
@@ -31,14 +29,16 @@ let post = sequelize.define('post',
             type: Sequelize.TEXT,
             allowNull: false,
         },
-        //是否删除
+        md_content: {
+            type: Sequelize.TEXT,
+            allowNull: true,
+        },
         is_delete: {
-            type: Sequelize.TINYINT,//0，1
+            type: Sequelize.TINYINT,
             allowNull: false,
         },
-        //是否是草稿
         is_draft: {
-            type: Sequelize.TINYINT,//0，1
+            type: Sequelize.TINYINT,
             allowNull: false,
         },
     },
