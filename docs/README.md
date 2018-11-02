@@ -1,6 +1,17 @@
+# todo list
+- ssr-react服务端渲染 
+- nice-swa项目官方网站
+- ~~token入表~~
+- ~~token刷新机制~~
+- ~~接口错误捕获~~
+- ~~文档 swagger 生成~~
+- ~~接口测试~~
+- 用户权限管理
+- ~~博客添加md字段保存~~
+- 添加websock 统计在线人数
 # nice-swa-s
 ## 项目说明
-- nice-swa，读着：laishua,中文名：来耍,加了-s，是代表serve,服务端。
+- nice-swa，读着:laishua,中文名：来耍,加了-s,是代表serve,服务端。
 - 这是NODE后台脚手架模板，
 使用 koa2 后端框架，数据库 mysql，ES6 语法开发，
 打包工具为webpack4。
@@ -295,6 +306,11 @@ branch:date-feature_name
 - [sequelizejs](http://docs.sequelizejs.com)
 - [ejs](http://ejs.co)
 - [ava](https://github.com/avajs/ava)
+- [wordpress](https://wordpress.org/)
+- [jpress](http://www.jpress.io/)
 
+## 勘误及提问
+如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
+如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
 
 
