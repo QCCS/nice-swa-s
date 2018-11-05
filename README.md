@@ -9,6 +9,7 @@
 - 用户权限管理
 - ~~博客添加md字段保存~~
 - 添加websock 统计在线人数
+- 注册邮件验证
 # nice-swa-s
 ## 项目说明
 - nice-swa，读着:laishua,中文名：来耍,加了-s,是代表serve,服务端。
